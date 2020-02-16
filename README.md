@@ -1,7 +1,6 @@
 # js-and-rockets
-Coding exercise for spaceship-forks/js-and-rockets
 
-My resolution for the coding exercise called #'JS & Rockets'.
+##### My resolution for the coding exercise called **'JS & Rockets'**.
 
 The exercise consists in consuming SpaceX API and consolidate a list of all the missions that were launched in 2018 that carried a payload that belonged to NASA. Doesn't matter to which NASA program each payload belongs to as long as NASA is the customer (the customer value should contain the string 'NASA').
 
