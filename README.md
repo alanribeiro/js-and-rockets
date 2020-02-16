@@ -8,6 +8,6 @@ The missions should appear in inverse chronological order with the exception tha
 
 You have to display the outcome by rendering the list to the screen as JSON with an indentation of 2 spaces. You may show only the flight number (flight_number), mission name (mission_name) and the number of payloads carried by the mission (payloads_count).
 
-More informations in this link: https://github.com/spaceship-forks/js-and-rockets
+More information in this link: https://github.com/spaceship-forks/js-and-rockets
 
 
