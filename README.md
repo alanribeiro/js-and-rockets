@@ -1,4 +1,4 @@
-# js-and-rockets
+# JS & Rockets
 
 ##### My resolution for the coding exercise called **'JS & Rockets'**.
 
