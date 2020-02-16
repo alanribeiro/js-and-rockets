@@ -6,7 +6,7 @@ The exercise consists in consuming SpaceX API and consolidate a list of all the 
 
 The missions should appear in inverse chronological order with the exception that missions that carried more payloads should appear first.
 
-You have to display the outcome by rendering the list to the screen as JSON with an indentation of 2 spaces. You may show only the flight number (flight_number), mission name (mission_name) and the number of payloads carried by the mission (payloads_count)
+You have to display the outcome by rendering the list to the screen as JSON with an indentation of 2 spaces. You may show only the flight number (flight_number), mission name (mission_name) and the number of payloads carried by the mission (payloads_count).
 
 More informations in this link: https://github.com/spaceship-forks/js-and-rockets
 
